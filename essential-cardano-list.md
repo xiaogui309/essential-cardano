@@ -138,6 +138,7 @@ Here is an outline of the categories:
 - [Meld](https://www.meld.com/)
 - [Venus](https://venus.io/)
 - [Wave](https://wavegp.com/)
+- [CBTC Bridge](https://cbtcbridge.com/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
